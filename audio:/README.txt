@@ -1,1 +1,0 @@
-Place your audio files named after the Bulgarian words here.

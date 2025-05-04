@@ -4,50 +4,42 @@ body {
   margin: 0;
   padding: 20px;
 }
-
 .app-container {
   max-width: 600px;
   margin: auto;
   text-align: center;
 }
-
 h1 {
   background: #4a90e2;
   color: white;
   padding: 20px;
   border-radius: 12px;
 }
-
 .card-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
   margin-top: 20px;
 }
-
 .card {
   background: white;
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   padding: 16px;
 }
-
 .card img {
   max-width: 80px;
   margin-bottom: 10px;
 }
-
 .word {
   font-size: 1.2em;
   font-weight: bold;
 }
-
 .translation {
   font-size: 1.1em;
   color: #333;
   margin-bottom: 10px;
 }
-
 button {
   background: #4a90e2;
   border: none;
@@ -57,11 +49,9 @@ button {
   cursor: pointer;
   font-size: 1em;
 }
-
 button:hover {
   background: #357abd;
 }
-
 #searchInput {
   padding: 10px;
   width: 90%;
