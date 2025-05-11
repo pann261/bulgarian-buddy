@@ -17,7 +17,8 @@ function renderItems(level, parent) {
   backButton.style.display = historyStack.length > 0 ? "inline-block" : "none";
 }
 
-function displayCards(items) {
+function displayCards(items) { 
+  console.log("Rendering items:", items);
   cardGrid.innerHTML = "";
   items.forEach(item => {
     const card = document.createElement("div");
@@ -26,13 +27,13 @@ function displayCards(items) {
     let goDeeper = item.hasChildren ? `<button onclick="navigateTo('${item.id}')">➡️ Go deeper</button>` : "";
     let playAudio = item.audio ? `<button onclick="new Audio('${item.audio}').play()">🔊 Play</button>` : "";
 
-    card.innerHTML = \`
-      <img src="\${item.image}" alt="\${item.english}">
-      <div class="word">\${item.english}</div>
-      <div class="translation">\${item.bulgarian}</div>
-      \${playAudio}
-      \${goDeeper}
-    \`;
+    card.innerHTML = `
+      <img src="${item.image}" alt="${item.english}">
+      <div class="word">${item.english}</div>
+      <div class="translation">${item.bulgarian}</div>
+      ${playAudio}
+      ${goDeeper}
+    `;
 
     cardGrid.appendChild(card);
   });

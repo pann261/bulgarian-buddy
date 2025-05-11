@@ -1,0 +1,1 @@
+Place your images (e.g., apple.png, icon-192.png) here.
