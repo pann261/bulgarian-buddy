@@ -21,6 +21,7 @@ function displayCards(items) {
   console.log("Rendering items:", items);
   cardGrid.innerHTML = "";
   items.forEach(item => {
+    console.log("Debugging item:", item);
     const card = document.createElement("div");
     card.className = "card";
 
