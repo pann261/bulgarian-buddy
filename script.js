@@ -25,15 +25,8 @@ function displayCards(items) {
     card.className = "card";
 
     let goDeeper = item.hasChildren ? `<button onclick="navigateTo('${item.id}')">➡️ Go deeper</button>` : "";
-    let playAudio = item.audio ? `<button onclick="(new Audio('${item.audio}')).play()">🔊 Play</button>` : "";
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 51746a942cd03615c7cf9f2105fcaae96e31392f
+    let playAudio = item.audio ? `<button onclick="new Audio('${item.audio}').play()">🔊 Play</button>` : "";
 
-=======
-    
->>>>>>> db4085e4b3754e349c2ff18ce31a1e90eabeb93d
     card.innerHTML = `
       <img src="${item.image}" alt="${item.english}">
       <div class="word">${item.english}</div>
