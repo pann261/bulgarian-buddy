@@ -63,3 +63,6 @@ searchInput.addEventListener("input", () => {
 });
 
 renderItems(0, null);
+window.addEventListener('load', () => {
+  renderItems(0, null);
+});
