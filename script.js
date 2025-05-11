@@ -26,13 +26,13 @@ function displayCards(items) {
 
     let goDeeper = item.hasChildren ? `<button onclick="navigateTo('${item.id}')">➡️ Go deeper</button>` : "";
     let playAudio = item.audio ? `<button onclick="(new Audio('${item.audio}')).play()">🔊 Play</button>` : "";
-    card.innerHTML = `
+    card.innerHTML = '
       <img src="${item.image}" alt="${item.english}">
       <div class="word">${item.english}</div>
       <div class="translation">${item.bulgarian}</div>
       ${playAudio}
       ${goDeeper}
-    `;
+    ';
 
     cardGrid.appendChild(card);
   });
