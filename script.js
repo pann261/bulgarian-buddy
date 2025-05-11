@@ -26,7 +26,6 @@ function displayCards(items) {
 
     let goDeeper = item.hasChildren ? `<button onclick="navigateTo('${item.id}')">➡️ Go deeper</button>` : "";
     let playAudio = item.audio ? `<button onclick="(new Audio('${item.audio}')).play()">🔊 Play</button>` : "";
-
     card.innerHTML = `
       <img src="${item.image}" alt="${item.english}">
       <div class="word">${item.english}</div>
