@@ -1,4 +1,4 @@
-const CACHE_NAME = "bulgarian-buddy-cache-v1";
+const CACHE_NAME = "bulgarian-buddy-cache-v2";  // Change to v2, v3, etc.
 const FILES_TO_CACHE = [
   "index.html",
   "styles.css",
