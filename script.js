@@ -24,12 +24,16 @@ function displayCards(items) {
     const card = document.createElement("div");
     card.className = "card";
 
-    let goDeeper = item.hasChildren ? `<button onclick="navigateTo('${item.id}')">➡️ Go deeper</button>` : "";
-<<<<<<< HEAD
-    let playAudio = item.audio ? `<button onclick="new Audio('${item.audio}').play()">🔊 Play</button>` : "";
-=======
-    let playAudio = item.audio ? `<button onclick="(new Audio('${item.audio}')).play()">🔊 Play</button>` : "";
->>>>>>> 445f9f67fcadbfaf24573244683b88fc698c3473
+    let goDeeper = (
+      item.hasChildren 
+        ? `<button onclick="navigateTo('${item.id}')">➡️ Go deeper</button>` 
+        : ""
+    );
+    let playAudio = (
+      item.audio 
+        ? `<button onclick="(new Audio('${item.audio}')).play()">🔊 Play</button>` 
+        : ""
+    );
 
     card.innerHTML = `
       <img src="${item.image}" alt="${item.english}">
