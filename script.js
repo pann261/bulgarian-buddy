@@ -33,7 +33,7 @@ function displayCards(items) {
       <div class="translation">${item.bulgarian}</div>
       ${playAudio}
       ${goDeeper}
-    ´;
+    `;
 
     cardGrid.appendChild(card);
   });
