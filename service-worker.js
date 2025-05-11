@@ -29,4 +29,19 @@ self.addEventListener("fetch", (evt) => {
   evt.respondWith(
     caches.match(evt.request).then((response) => response || fetch(evt.request))
   );
+  self.addEventListener("activate", (event) => {
+  event.waitUntil(
+    caches.keys().then((cacheNames) => {
+      return Promise.all(
+        cacheNames.map((cache) => {
+          if (cache !== CACHE_NAME) {
+            console.log("Deleting old cache:", cache);
+            return caches.delete(cache);
+          }
+        })
+      );
+    })
+  );
+});
+
 });
