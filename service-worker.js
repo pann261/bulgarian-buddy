@@ -29,7 +29,7 @@ self.addEventListener("fetch", (evt) => {
   evt.respondWith(
     caches.match(evt.request).then((response) => response || fetch(evt.request))
   );
-  self.addEventListener("activate", (event) => {
+self.addEventListener("activate", (event) => {
   event.waitUntil(
     caches.keys().then((cacheNames) => {
       return Promise.all(
