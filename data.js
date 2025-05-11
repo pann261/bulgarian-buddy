@@ -6,7 +6,7 @@ const vocabulary = [
     english: "Horse",
     bulgarian: "Кон",
     image: "images/horse.png",
-    audio: "audio/horse.mp3",
+    audio: "audio/Кон.mp3",
     hasChildren: false,
   },
   {
@@ -16,7 +16,7 @@ const vocabulary = [
     english: "Alpaca",
     bulgarian: "Алпака",
     image: "images/alpaca.png",
-    audio: "audio/alpaca.mp3",
+    audio: "audio/Алпака.mp3",
     hasChildren: false,
   },
   {
@@ -26,7 +26,7 @@ const vocabulary = [
     english: "Cat",
     bulgarian: "Котка",
     image: "images/Cat.png",
-    audio: "audio/Cat.mp3",
+    audio: "audio/Котка.mp3",
     hasChildren: false,
   },
   {
@@ -36,7 +36,7 @@ const vocabulary = [
     english: "Dog",
     bulgarian: "Куче",
     image: "images/dog.png",
-    audio: "audio/dog.mp3",
+    audio: "audio/Куче.mp3",
     hasChildren: false,
   },
   {
@@ -46,7 +46,7 @@ const vocabulary = [
     english: "Fish",
     bulgarian: "Риба",
     image: "images/Fish.png",
-    audio: "audio/Fish.mp3",
+    audio: "audio/Риба.mp3",
     hasChildren: false,
   },
   {
@@ -56,7 +56,7 @@ const vocabulary = [
     english: "Arms",
     bulgarian: "Ръце",
     image: "images/arms.png",
-    audio: "audio/arms.mp3",
+    audio: "audio/Ръце.mp3",
     hasChildren: false,
   },
   {
@@ -66,7 +66,7 @@ const vocabulary = [
     english: "Ears",
     bulgarian: "Уши",
     image: "images/ears.png",
-    audio: "audio/ears.mp3",
+    audio: "audio/Уши.mp3",
     hasChildren: false,
   },
   {
@@ -76,7 +76,7 @@ const vocabulary = [
     english: "Eyes",
     bulgarian: "Очи",
     image: "images/eyes.png",
-    audio: "audio/eyes.mp3",
+    audio: "audio/Очи.mp3",
     hasChildren: false,
   },
   {
@@ -86,7 +86,7 @@ const vocabulary = [
     english: "Feet",
     bulgarian: "Стъпала",
     image: "images/feet.png",
-    audio: "audio/feet.mp3",
+    audio: "audio/Стъпала.mp3",
     hasChildren: false,
   },
   {
@@ -96,7 +96,7 @@ const vocabulary = [
     english: "Hands",
     bulgarian: "Ръце",
     image: "images/hands.png",
-    audio: "audio/hands.mp3",
+    audio: "audio/Ръце.mp3",
     hasChildren: false,
   },
   {
@@ -106,7 +106,7 @@ const vocabulary = [
     english: "Head",
     bulgarian: "Глава",
     image: "images/head.png",
-    audio: "audio/head.mp3",
+    audio: "audio/Глава.mp3",
     hasChildren: false,
   },
   {
@@ -116,7 +116,7 @@ const vocabulary = [
     english: "Heart",
     bulgarian: "Сърце",
     image: "images/heart.png",
-    audio: "audio/heart.mp3",
+    audio: "audio/Сърце.mp3",
     hasChildren: false,
   },
   {
@@ -126,7 +126,7 @@ const vocabulary = [
     english: "Legs",
     bulgarian: "Крака",
     image: "images/legs.png",
-    audio: "audio/legs.mp3",
+    audio: "audio/Крака.mp3",
     hasChildren: false,
   },
   {
@@ -136,7 +136,7 @@ const vocabulary = [
     english: "Mouth",
     bulgarian: "Уста",
     image: "images/mouth.png",
-    audio: "audio/mouth.mp3",
+    audio: "audio/Уста.mp3",
     hasChildren: false,
   },
   {
@@ -146,7 +146,7 @@ const vocabulary = [
     english: "Nose",
     bulgarian: "Нос",
     image: "images/nose.png",
-    audio: "audio/nose.mp3",
+    audio: "audio/Нос.mp3",
     hasChildren: false,
   },
   {
@@ -156,7 +156,7 @@ const vocabulary = [
     english: "Stomach",
     bulgarian: "Стомах",
     image: "images/stomach.png",
-    audio: "audio/stomach.mp3",
+    audio: "audio/Стомах.mp3",
     hasChildren: false,
   },
   {
@@ -166,7 +166,7 @@ const vocabulary = [
     english: "Bath",
     bulgarian: "Вана",
     image: "images/bath.png",
-    audio: "audio/bath.mp3",
+    audio: "audio/Вана.mp3",
     hasChildren: false,
   },
   {
@@ -176,7 +176,7 @@ const vocabulary = [
     english: "Hands",
     bulgarian: "Ръце",
     image: "images/hands.png",
-    audio: "audio/hands.mp3",
+    audio: "audio/Ръце.mp3",
     hasChildren: false,
   },
   {
@@ -186,7 +186,7 @@ const vocabulary = [
     english: "Teeth",
     bulgarian: "Зъби",
     image: "images/teeth.png",
-    audio: "audio/teeth.mp3",
+    audio: "audio/Зъби.mp3",
     hasChildren: false,
   },
   {
@@ -196,7 +196,7 @@ const vocabulary = [
     english: "Diaper",
     bulgarian: "Пелена",
     image: "images/diaper.png",
-    audio: "audio/diaper.mp3",
+    audio: "audio/Пелена.mp3",
     hasChildren: false,
   },
   {
@@ -206,7 +206,7 @@ const vocabulary = [
     english: "Dress",
     bulgarian: "Рокля",
     image: "images/dress.png",
-    audio: "audio/dress.mp3",
+    audio: "audio/Рокля.mp3",
     hasChildren: false,
   },
   {
@@ -216,7 +216,7 @@ const vocabulary = [
     english: "Pants",
     bulgarian: "Панталони",
     image: "images/pants.png",
-    audio: "audio/pants.mp3",
+    audio: "audio/Панталони.mp3",
     hasChildren: false,
   },
   {
@@ -226,7 +226,7 @@ const vocabulary = [
     english: "Shirt",
     bulgarian: "Риза",
     image: "images/Shirt.png",
-    audio: "audio/Shirt.mp3",
+    audio: "audio/Риза.mp3",
     hasChildren: false,
   },
   {
@@ -236,7 +236,7 @@ const vocabulary = [
     english: "Shoes",
     bulgarian: "Обувки",
     image: "images/shoes.png",
-    audio: "audio/shoes.mp3",
+    audio: "audio/Обувки.mp3",
     hasChildren: false,
   },
   {
@@ -246,7 +246,7 @@ const vocabulary = [
     english: "Skirt",
     bulgarian: "Пола",
     image: "images/skirt.png",
-    audio: "audio/skirt.mp3",
+    audio: "audio/Пола.mp3",
     hasChildren: false,
   },
   {
@@ -256,7 +256,7 @@ const vocabulary = [
     english: "Blue",
     bulgarian: "Син",
     image: "images/blue.png",
-    audio: "audio/blue.mp3",
+    audio: "audio/Син.mp3",
     hasChildren: false,
   },
   {
@@ -266,7 +266,7 @@ const vocabulary = [
     english: "Green",
     bulgarian: "Зелен",
     image: "images/green.png",
-    audio: "audio/green.mp3",
+    audio: "audio/Зелен.mp3",
     hasChildren: false,
   },
   {
@@ -276,7 +276,7 @@ const vocabulary = [
     english: "Orange",
     bulgarian: "Оранжев",
     image: "images/orange.png",
-    audio: "audio/orange.mp3",
+    audio: "audio/Оранжев.mp3",
     hasChildren: false,
   },
   {
@@ -286,7 +286,7 @@ const vocabulary = [
     english: "Purple",
     bulgarian: "Лилав",
     image: "images/purple.png",
-    audio: "audio/purple.mp3",
+    audio: "audio/Лилав.mp3",
     hasChildren: false,
   },
   {
@@ -296,7 +296,7 @@ const vocabulary = [
     english: "Red",
     bulgarian: "Червен",
     image: "images/red.png",
-    audio: "audio/red.mp3",
+    audio: "audio/Червен.mp3",
     hasChildren: false,
   },
   {
@@ -306,7 +306,7 @@ const vocabulary = [
     english: "Yellow",
     bulgarian: "Жълт",
     image: "images/yellow.png",
-    audio: "audio/yellow.mp3",
+    audio: "audio/Жълт.mp3",
     hasChildren: false,
   },
   {
@@ -316,7 +316,7 @@ const vocabulary = [
     english: "Airplane",
     bulgarian: "Самолет",
     image: "images/airplane.png",
-    audio: "audio/airplane.mp3",
+    audio: "audio/Самолет.mp3",
     hasChildren: false,
   },
   {
@@ -326,7 +326,7 @@ const vocabulary = [
     english: "Car",
     bulgarian: "Кола",
     image: "images/Car.png",
-    audio: "audio/Car.mp3",
+    audio: "audio/Кола.mp3",
     hasChildren: false,
   },
   {
@@ -336,7 +336,7 @@ const vocabulary = [
     english: "Day",
     bulgarian: "Ден",
     image: "images/day.png",
-    audio: "audio/day.mp3",
+    audio: "audio/Ден.mp3",
     hasChildren: false,
   },
   {
@@ -346,7 +346,7 @@ const vocabulary = [
     english: "Down",
     bulgarian: "Долу",
     image: "images/down.png",
-    audio: "audio/down.mp3",
+    audio: "audio/Долу.mp3",
     hasChildren: false,
   },
   {
@@ -356,7 +356,7 @@ const vocabulary = [
     english: "Go",
     bulgarian: "Отиди",
     image: "images/go.png",
-    audio: "audio/go.mp3",
+    audio: "audio/Отиди.mp3",
     hasChildren: false,
   },
   {
@@ -366,7 +366,7 @@ const vocabulary = [
     english: "In",
     bulgarian: "В",
     image: "images/in.png",
-    audio: "audio/in.mp3",
+    audio: "audio/В.mp3",
     hasChildren: false,
   },
   {
@@ -376,7 +376,7 @@ const vocabulary = [
     english: "Morning",
     bulgarian: "Сутрин",
     image: "images/morning.png",
-    audio: "audio/morning.mp3",
+    audio: "audio/Сутрин.mp3",
     hasChildren: false,
   },
   {
@@ -386,7 +386,7 @@ const vocabulary = [
     english: "Night",
     bulgarian: "Нощ",
     image: "images/night.png",
-    audio: "audio/night.mp3",
+    audio: "audio/Нощ.mp3",
     hasChildren: false,
   },
   {
@@ -396,7 +396,7 @@ const vocabulary = [
     english: "Out",
     bulgarian: "Извън",
     image: "images/out.png",
-    audio: "audio/out.mp3",
+    audio: "audio/Извън.mp3",
     hasChildren: false,
   },
   {
@@ -406,7 +406,7 @@ const vocabulary = [
     english: "Stop",
     bulgarian: "Спри",
     image: "images/stop.png",
-    audio: "audio/stop.mp3",
+    audio: "audio/Спри.mp3",
     hasChildren: false,
   },
   {
@@ -416,7 +416,7 @@ const vocabulary = [
     english: "Up",
     bulgarian: "Горе",
     image: "images/up.png",
-    audio: "audio/up.mp3",
+    audio: "audio/Горе.mp3",
     hasChildren: false,
   },
   {
@@ -426,7 +426,7 @@ const vocabulary = [
     english: "Crayons",
     bulgarian: "Пастели",
     image: "images/crayons.png",
-    audio: "audio/crayons.mp3",
+    audio: "audio/Пастели.mp3",
     hasChildren: false,
   },
   {
@@ -436,7 +436,7 @@ const vocabulary = [
     english: "Markers",
     bulgarian: "Маркер",
     image: "images/markers.png",
-    audio: "audio/markers.mp3",
+    audio: "audio/Маркер.mp3",
     hasChildren: false,
   },
   {
@@ -446,7 +446,7 @@ const vocabulary = [
     english: "Paper",
     bulgarian: "Хартия",
     image: "images/paper.png",
-    audio: "audio/paper.mp3",
+    audio: "audio/Хартия.mp3",
     hasChildren: false,
   },
   {
@@ -456,7 +456,7 @@ const vocabulary = [
     english: "Chocolate Milk",
     bulgarian: "Шоколадово мляко",
     image: "images/chocolatemilk.png",
-    audio: "audio/chocolatemilk.mp3",
+    audio: "audio/Шоколадово мляко.mp3",
     hasChildren: false,
   },
   {
@@ -466,7 +466,7 @@ const vocabulary = [
     english: "Juice",
     bulgarian: "Сок",
     image: "images/juice.png",
-    audio: "audio/juice.mp3",
+    audio: "audio/Сок.mp3",
     hasChildren: false,
   },
   {
@@ -476,7 +476,7 @@ const vocabulary = [
     english: "Milk",
     bulgarian: "Мляко",
     image: "images/milk.png",
-    audio: "audio/milk.mp3",
+    audio: "audio/Мляко.mp3",
     hasChildren: false,
   },
   {
@@ -486,7 +486,7 @@ const vocabulary = [
     english: "Watermelon",
     bulgarian: "Диня",
     image: "images/water.png",
-    audio: "audio/water.mp3",
+    audio: "audio/Диня.mp3",
     hasChildren: false,
   },
   {
@@ -496,7 +496,7 @@ const vocabulary = [
     english: "Aunt Peyton",
     bulgarian: "Леля Пейтън",
     image: "images/Auntpeyton.png",
-    audio: "audio/Auntpeyton.mp3",
+    audio: "audio/Леля Пейтън.mp3",
     hasChildren: false,
   },
   {
@@ -506,7 +506,7 @@ const vocabulary = [
     english: "Baby",
     bulgarian: "Бебе",
     image: "images/baby.png",
-    audio: "audio/baby.mp3",
+    audio: "audio/Бебе.mp3",
     hasChildren: false,
   },
   {
@@ -516,7 +516,7 @@ const vocabulary = [
     english: "Dad",
     bulgarian: "Татко",
     image: "images/dad.png",
-    audio: "audio/dad.mp3",
+    audio: "audio/Татко.mp3",
     hasChildren: false,
   },
   {
@@ -526,7 +526,7 @@ const vocabulary = [
     english: "Grandma",
     bulgarian: "Баба",
     image: "images/grandma.png",
-    audio: "audio/grandma.mp3",
+    audio: "audio/Баба.mp3",
     hasChildren: false,
   },
   {
@@ -536,7 +536,7 @@ const vocabulary = [
     english: "Grandpa",
     bulgarian: "Дядо",
     image: "images/grandpa.png",
-    audio: "audio/grandpa.mp3",
+    audio: "audio/Дядо.mp3",
     hasChildren: false,
   },
   {
@@ -546,7 +546,7 @@ const vocabulary = [
     english: "Home",
     bulgarian: "Дом",
     image: "images/home.png",
-    audio: "audio/home.mp3",
+    audio: "audio/Дом.mp3",
     hasChildren: false,
   },
   {
@@ -556,7 +556,7 @@ const vocabulary = [
     english: "Mom",
     bulgarian: "Мама",
     image: "images/Mom.png",
-    audio: "audio/Mom.mp3",
+    audio: "audio/Мама.mp3",
     hasChildren: false,
   },
   {
@@ -566,7 +566,7 @@ const vocabulary = [
     english: "Neighbors",
     bulgarian: "Съседи",
     image: "images/neighbors.png",
-    audio: "audio/neighbors.mp3",
+    audio: "audio/Съседи.mp3",
     hasChildren: false,
   },
   {
@@ -576,7 +576,7 @@ const vocabulary = [
     english: "Uncle Addie",
     bulgarian: "Чичо Ади",
     image: "images/uncleaddie.png",
-    audio: "audio/uncleaddie.mp3",
+    audio: "audio/Чичо Ади.mp3",
     hasChildren: false,
   },
   {
@@ -586,7 +586,7 @@ const vocabulary = [
     english: "Uncle Jasce",
     bulgarian: "Чичо Джейс",
     image: "images/unclejasce.png",
-    audio: "audio/unclejasce.mp3",
+    audio: "audio/Чичо Джейс.mp3",
     hasChildren: false,
   },
   {
@@ -596,7 +596,7 @@ const vocabulary = [
     english: "Angry",
     bulgarian: "Ядосан",
     image: "images/angry.png",
-    audio: "audio/angry.mp3",
+    audio: "audio/Ядосан.mp3",
     hasChildren: false,
   },
   {
@@ -605,8 +605,8 @@ const vocabulary = [
     parent: "Feelings",
     english: "Confused",
     bulgarian: "Объркан",
-    image: "images/confused/png",
-    audio: "audio/confused/mp3",
+    image: "images/confused.png",
+    audio: "audio/Объркан.mp3",
     hasChildren: false,
   },
   {
@@ -616,7 +616,7 @@ const vocabulary = [
     english: "Disgust",
     bulgarian: "Отвращение",
     image: "images/disgust.png",
-    audio: "audio/disgust.mp3",
+    audio: "audio/Отвращение.mp3",
     hasChildren: false,
   },
   {
@@ -626,7 +626,7 @@ const vocabulary = [
     english: "Happy",
     bulgarian: "Щастлив",
     image: "images/happy.png",
-    audio: "audio/happy.mp3",
+    audio: "audio/Щастлив.mp3",
     hasChildren: false,
   },
   {
@@ -636,7 +636,7 @@ const vocabulary = [
     english: "Sad",
     bulgarian: "Тъжен",
     image: "images/sad.png",
-    audio: "audio/sad.mp3",
+    audio: "audio/Тъжен.mp3",
     hasChildren: false,
   },
   {
@@ -646,7 +646,7 @@ const vocabulary = [
     english: "Scared",
     bulgarian: "Уплашен",
     image: "images/scared.png",
-    audio: "audio/scared.mp3",
+    audio: "audio/Уплашен.mp3",
     hasChildren: false,
   },
   {
@@ -656,7 +656,7 @@ const vocabulary = [
     english: "Silly",
     bulgarian: "Глупав",
     image: "images/silly.png",
-    audio: "audio/silly.mp3",
+    audio: "audio/Глупав.mp3",
     hasChildren: false,
   },
   {
@@ -666,7 +666,7 @@ const vocabulary = [
     english: "Tired",
     bulgarian: "Уморен",
     image: "images/tired.png",
-    audio: "audio/tired.mp3",
+    audio: "audio/Уморен.mp3",
     hasChildren: false,
   },
   {
@@ -676,7 +676,7 @@ const vocabulary = [
     english: "Cereal",
     bulgarian: "Зърнена закуска",
     image: "images/cereal.png",
-    audio: "audio/cereal.mp3",
+    audio: "audio/Зърнена закуска.mp3",
     hasChildren: false,
   },
   {
@@ -686,7 +686,7 @@ const vocabulary = [
     english: "Fruit",
     bulgarian: "Плод",
     image: "images/fruit.png",
-    audio: "audio/fruit.mp3",
+    audio: "audio/Плод.mp3",
     hasChildren: false,
   },
   {
@@ -696,7 +696,7 @@ const vocabulary = [
     english: "Pizza",
     bulgarian: "Пица",
     image: "images/pizza.png",
-    audio: "audio/pizza.mp3",
+    audio: "audio/Пица.mp3",
     hasChildren: false,
   },
   {
@@ -706,7 +706,7 @@ const vocabulary = [
     english: "Apple",
     bulgarian: "Ябълка",
     image: "images/apple.png",
-    audio: "audio/apple.mp3",
+    audio: "audio/Ябълка.mp3",
     hasChildren: false,
   },
   {
@@ -716,7 +716,7 @@ const vocabulary = [
     english: "Banana",
     bulgarian: "Банан",
     image: "images/banana.png",
-    audio: "audio/banana.mp3",
+    audio: "audio/Банан.mp3",
     hasChildren: false,
   },
   {
@@ -726,7 +726,7 @@ const vocabulary = [
     english: "Orange",
     bulgarian: "Портокал",
     image: "images/orange.png",
-    audio: "audio/orange.mp3",
+    audio: "audio/Портокал.mp3",
     hasChildren: false,
   },
   {
@@ -736,7 +736,7 @@ const vocabulary = [
     english: "Strawberry",
     bulgarian: "Ягода",
     image: "images/Strawberry.png",
-    audio: "audio/Strawberry.mp3",
+    audio: "audio/Ягода.mp3",
     hasChildren: false,
   },
   {
@@ -746,7 +746,7 @@ const vocabulary = [
     english: "Watermelon",
     bulgarian: "Диня",
     image: "images/watermelon.png",
-    audio: "audio/watermelon.mp3",
+    audio: "audio/Диня.mp3",
     hasChildren: false,
   },
   {
@@ -756,7 +756,7 @@ const vocabulary = [
     english: "Bathroom",
     bulgarian: "Баня",
     image: "images/bathroom.png",
-    audio: "audio/bathroom.mp3",
+    audio: "audio/Баня.mp3",
     hasChildren: true,
   },
   {
@@ -766,7 +766,7 @@ const vocabulary = [
     english: "Bed",
     bulgarian: "Легло",
     image: "images/Bed.png",
-    audio: "audio/Bed.mp3",
+    audio: "audio/Легло.mp3",
     hasChildren: false,
   },
   {
@@ -776,7 +776,7 @@ const vocabulary = [
     english: "Clean",
     bulgarian: "Чист",
     image: "images/clean.png",
-    audio: "audio/clean.mp3",
+    audio: "audio/Чист.mp3",
     hasChildren: true,
   },
   {
@@ -786,7 +786,7 @@ const vocabulary = [
     english: "Dirty",
     bulgarian: "Мръсен",
     image: "images/dirty.png",
-    audio: "audio/dirty.mp3",
+    audio: "audio/Мръсен.mp3",
     hasChildren: false,
   },
   {
@@ -796,7 +796,7 @@ const vocabulary = [
     english: "Drinks",
     bulgarian: "Напитки",
     image: "images/drinks.png",
-    audio: "audio/drinks.mp3",
+    audio: "audio/Напитки.mp3",
     hasChildren: false,
   },
   {
@@ -806,7 +806,7 @@ const vocabulary = [
     english: "Food",
     bulgarian: "Храна",
     image: "images/food.png",
-    audio: "audio/food.mp3",
+    audio: "audio/Храна.mp3",
     hasChildren: false,
   },
   {
@@ -816,7 +816,7 @@ const vocabulary = [
     english: "Hungry",
     bulgarian: "Гладен",
     image: "images/hungry.png",
-    audio: "audio/hungry.mp3",
+    audio: "audio/Гладен.mp3",
     hasChildren: true,
   },
   {
@@ -826,7 +826,7 @@ const vocabulary = [
     english: "Hurts",
     bulgarian: "Боли",
     image: "images/hurts.png",
-    audio: "audio/hurts.mp3",
+    audio: "audio/Боли.mp3",
     hasChildren: false,
   },
   {
@@ -836,7 +836,7 @@ const vocabulary = [
     english: "Pee",
     bulgarian: "Пиш",
     image: "images/pee.png",
-    audio: "audio/pee.mp3",
+    audio: "audio/Пиш.mp3",
     hasChildren: false,
   },
   {
@@ -846,7 +846,7 @@ const vocabulary = [
     english: "Poop",
     bulgarian: "Ака",
     image: "images/poop.png",
-    audio: "audio/poop.mp3",
+    audio: "audio/Ака.mp3",
     hasChildren: false,
   },
   {
@@ -856,7 +856,7 @@ const vocabulary = [
     english: "Sick",
     bulgarian: "Болен",
     image: "images/sick.png",
-    audio: "audio/sick.mp3",
+    audio: "audio/Болен.mp3",
     hasChildren: false,
   },
   {
@@ -866,7 +866,7 @@ const vocabulary = [
     english: "Sleepy",
     bulgarian: "Сънлив",
     image: "images/sleepy.png",
-    audio: "audio/sleepy.mp3",
+    audio: "audio/Сънлив.mp3",
     hasChildren: false,
   },
   {
@@ -876,7 +876,7 @@ const vocabulary = [
     english: "Thirsty",
     bulgarian: "Жаден",
     image: "images/thirsty.png",
-    audio: "audio/thirsty.mp3",
+    audio: "audio/Жаден.mp3",
     hasChildren: true,
   },
   {
@@ -886,7 +886,7 @@ const vocabulary = [
     english: "Animals",
     bulgarian: "Животни",
     image: "images/animals.png",
-    audio: "audio/animals.mp3",
+    audio: "audio/Животни.mp3",
     hasChildren: true,
   },
   {
@@ -896,7 +896,7 @@ const vocabulary = [
     english: "Body",
     bulgarian: "Тяло",
     image: "images/body.png",
-    audio: "audio/body.mp3",
+    audio: "audio/Тяло.mp3",
     hasChildren: true,
   },
   {
@@ -906,7 +906,7 @@ const vocabulary = [
     english: "Clothes",
     bulgarian: "Дрехи",
     image: "images/clothes.png",
-    audio: "audio/clothes.mp3",
+    audio: "audio/Дрехи.mp3",
     hasChildren: true,
   },
   {
@@ -916,7 +916,7 @@ const vocabulary = [
     english: "Directions",
     bulgarian: "Указания",
     image: "images/directions.png",
-    audio: "audio/directions.mp3",
+    audio: "audio/Указания.mp3",
     hasChildren: true,
   },
   {
@@ -926,7 +926,7 @@ const vocabulary = [
     english: "Family",
     bulgarian: "Семейство",
     image: "images/family.png",
-    audio: "audio/family.mp3",
+    audio: "audio/Семейство.mp3",
     hasChildren: true,
   },
   {
@@ -936,7 +936,7 @@ const vocabulary = [
     english: "Feelings",
     bulgarian: "Чувства",
     image: "images/feelings.png",
-    audio: "audio/feelings.mp3",
+    audio: "audio/Чувства.mp3",
     hasChildren: true,
   },
   {
@@ -946,7 +946,7 @@ const vocabulary = [
     english: "Help",
     bulgarian: "Помощ",
     image: "images/help.png",
-    audio: "audio/help.mp3",
+    audio: "audio/Помощ.mp3",
     hasChildren: true,
   },
   {
@@ -956,7 +956,7 @@ const vocabulary = [
     english: "Needs",
     bulgarian: "Нуждае се",
     image: "images/needs.png",
-    audio: "audio/needs.mp3",
+    audio: "audio/Нуждае.mp3",
     hasChildren: true,
   },
   {
@@ -966,7 +966,7 @@ const vocabulary = [
     english: "No",
     bulgarian: "Не",
     image: "images/no.png",
-    audio: "audio/no.mp3",
+    audio: "audio/Не.mp3",
     hasChildren: true,
   },
   {
@@ -976,7 +976,7 @@ const vocabulary = [
     english: "Phrases",
     bulgarian: "Фрази",
     image: "images/phrases.png",
-    audio: "audio/phrases.mp3",
+    audio: "audio/Фрази.mp3",
     hasChildren: true,
   },
   {
@@ -986,7 +986,7 @@ const vocabulary = [
     english: "Places",
     bulgarian: "Места",
     image: "images/places.png",
-    audio: "audio/places.mp3",
+    audio: "audio/Места.mp3",
     hasChildren: true,
   },
   {
@@ -996,7 +996,7 @@ const vocabulary = [
     english: "Play",
     bulgarian: "Играй",
     image: "images/play.png",
-    audio: "audio/play.mp3",
+    audio: "audio/Играй.mp3",
     hasChildren: true,
   },
   {
@@ -1006,7 +1006,7 @@ const vocabulary = [
     english: "Questions",
     bulgarian: "Въпроси",
     image: "images/questions.png",
-    audio: "audio/questions.mp3",
+    audio: "audio/Въпроси.mp3",
     hasChildren: true,
   },
   {
@@ -1016,7 +1016,7 @@ const vocabulary = [
     english: "Stop",
     bulgarian: "Спри",
     image: "images/stop.png",
-    audio: "audio/stop.mp3",
+    audio: "audio/Спри.mp3",
     hasChildren: true,
   },
   {
@@ -1026,7 +1026,7 @@ const vocabulary = [
     english: "Wants",
     bulgarian: "Иска",
     image: "images/want.png",
-    audio: "audio/want.mp3",
+    audio: "audio/Иска.mp3",
     hasChildren: true,
   },
   {
@@ -1036,7 +1036,7 @@ const vocabulary = [
     english: "Weather",
     bulgarian: "Времето",
     image: "images/weather.png",
-    audio: "audio/weather.mp3",
+    audio: "audio/Времето.mp3",
     hasChildren: true,
   },
   {
@@ -1046,7 +1046,7 @@ const vocabulary = [
     english: "Yes",
     bulgarian: "Да",
     image: "images/yes.png",
-    audio: "audio/yes.mp3",
+    audio: "audio/Да.mp3",
     hasChildren: true,
   },
   {
@@ -1056,7 +1056,7 @@ const vocabulary = [
     english: "Bye",
     bulgarian: "Чао",
     image: "images/bye.png",
-    audio: "audio/bye.mp3",
+    audio: "audio/Чао.mp3",
     hasChildren: false,
   },
   {
@@ -1066,7 +1066,7 @@ const vocabulary = [
     english: "Done",
     bulgarian: "Готово",
     image: "images/done.png",
-    audio: "audio/done.mp3",
+    audio: "audio/Готово.mp3",
     hasChildren: false,
   },
   {
@@ -1076,7 +1076,7 @@ const vocabulary = [
     english: "Goodnight",
     bulgarian: "Лека нощ",
     image: "images/goodnight.png",
-    audio: "audio/goodnight.mp3",
+    audio: "audio/Лека нощ.mp3",
     hasChildren: false,
   },
   {
@@ -1086,7 +1086,7 @@ const vocabulary = [
     english: "Hi",
     bulgarian: "Здрасти",
     image: "images/hi.png",
-    audio: "audio/hi.mp3",
+    audio: "audio/Здрасти.mp3",
     hasChildren: false,
   },
   {
@@ -1096,7 +1096,7 @@ const vocabulary = [
     english: "I Love You",
     bulgarian: "Обичам те",
     image: "images/iloveyou.png",
-    audio: "audio/iloveyou.mp3",
+    audio: "audio/Обичам те.mp3",
     hasChildren: false,
   },
   {
@@ -1106,7 +1106,7 @@ const vocabulary = [
     english: "More",
     bulgarian: "Още",
     image: "imags/more.png",
-    audio: "imags/more.mp3",
+    audio: "imags/Още.mp3",
     hasChildren: false,
   },
   {
@@ -1116,7 +1116,7 @@ const vocabulary = [
     english: "Play",
     bulgarian: "Играй",
     image: "images/play.png",
-    audio: "audio/play.mp3",
+    audio: "audio/Играй.mp3",
     hasChildren: false,
   },
   {
@@ -1126,7 +1126,7 @@ const vocabulary = [
     english: "Please",
     bulgarian: "Моля",
     image: "images/please.png",
-    audio: "audio/please.mp3",
+    audio: "audio/Моля.mp3",
     hasChildren: false,
   },
   {
@@ -1136,7 +1136,7 @@ const vocabulary = [
     english: "Thank You",
     bulgarian: "Благодаря",
     image: "images/thankyou.png",
-    audio: "audio/thankyou.mp3",
+    audio: "audio/Благодаря.mp3",
     hasChildren: false,
   },
   {
@@ -1146,7 +1146,7 @@ const vocabulary = [
     english: "Bathroom",
     bulgarian: "Баня",
     image: "images/bathroom.png",
-    audio: "audio/bathroom.mp3",
+    audio: "audio/Баня.mp3",
     hasChildren: false,
   },
   {
@@ -1156,7 +1156,7 @@ const vocabulary = [
     english: "Home",
     bulgarian: "Дом",
     image: "images/home.png",
-    audio: "audio/home.mp3",
+    audio: "audio/Дом.mp3",
     hasChildren: false,
   },
   {
@@ -1166,7 +1166,7 @@ const vocabulary = [
     english: "Kitchen",
     bulgarian: "Кухня",
     image: "images/kitchen.png",
-    audio: "audio/kitchen.mp3",
+    audio: "audio/Кухня.mp3",
     hasChildren: false,
   },
   {
@@ -1176,7 +1176,7 @@ const vocabulary = [
     english: "Living Room",
     bulgarian: "Дневна",
     image: "images/livingroom.png",
-    audio: "audio/livingroom.mp3",
+    audio: "audio/Дневна.mp3",
     hasChildren: false,
   },
   {
@@ -1186,7 +1186,7 @@ const vocabulary = [
     english: "Mira's Room",
     bulgarian: "Стаята на Мира",
     image: "images/mirasroom.png",
-    audio: "audio/mirasroom.mp3",
+    audio: "audio/Стаята на Мира.mp3",
     hasChildren: false,
   },
   {
@@ -1196,7 +1196,7 @@ const vocabulary = [
     english: "Colors",
     bulgarian: "Цветове",
     image: "images/Colors.png",
-    audio: "audio/Colors.mp3",
+    audio: "audio/Цветове.mp3",
     hasChildren: false,
   },
   {
@@ -1206,7 +1206,7 @@ const vocabulary = [
     english: "Draw",
     bulgarian: "Рисувам",
     image: "images/draw.png",
-    audio: "audio/draw.mp3",
+    audio: "audio/Рисувам.mp3",
     hasChildren: false,
   },
   {
@@ -1216,7 +1216,7 @@ const vocabulary = [
     english: "Games",
     bulgarian: "Игри",
     image: "images/games.png",
-    audio: "audio/games.mp3",
+    audio: "audio/Игри.mp3",
     hasChildren: false,
   },
   {
@@ -1226,7 +1226,7 @@ const vocabulary = [
     english: "Phone",
     bulgarian: "Телефон",
     image: "images/phone.png",
-    audio: "audio/phone.mp3",
+    audio: "audio/Телефон.mp3",
     hasChildren: false,
   },
   {
@@ -1246,7 +1246,7 @@ const vocabulary = [
     english: "TV",
     bulgarian: "Телевизор",
     image: "images/tv.png",
-    audio: "audio/tv.mp3",
+    audio: "audio/Телевизор.mp3",
     hasChildren: true,
   },
   {
@@ -1256,7 +1256,7 @@ const vocabulary = [
     english: "How?",
     bulgarian: "Как?",
     image: "images/how.png",
-    audio: "audio/how.mp3",
+    audio: "audio/Как?.mp3",
     hasChildren: true,
   },
   {
@@ -1266,7 +1266,7 @@ const vocabulary = [
     english: "What do you need?",
     bulgarian: "От какво имаш нужда?",
     image: "images/whatdoyouneed.png",
-    audio: "audio/whatdoyouneed.mp3",
+    audio: "audio/От какво имаш нужда?.mp3",
     hasChildren: false,
   },
   {
@@ -1276,7 +1276,7 @@ const vocabulary = [
     english: "What do you want?",
     bulgarian: "Какво искаш?",
     image: "images/whatdoyouwant.png",
-    audio: "audio/whatdoyouwant.mp3",
+    audio: "audio/Какво искаш?.mp3",
     hasChildren: false,
   },
   {
@@ -1286,7 +1286,7 @@ const vocabulary = [
     english: "What?",
     bulgarian: "Какво?",
     image: "images/what.png",
-    audio: "audio/what.mp3",
+    audio: "audio/Какво?.mp3",
     hasChildren: true,
   },
   {
@@ -1296,7 +1296,7 @@ const vocabulary = [
     english: "When?",
     bulgarian: "Кога?",
     image: "images/when.png",
-    audio: "audio/when.mp3",
+    audio: "audio/Кога?.mp3",
     hasChildren: true,
   },
   {
@@ -1306,7 +1306,7 @@ const vocabulary = [
     english: "Where?",
     bulgarian: "Къде?",
     image: "images/where.png",
-    audio: "audio/where.mp3",
+    audio: "audio/Къде?.mp3",
     hasChildren: true,
   },
   {
@@ -1316,7 +1316,7 @@ const vocabulary = [
     english: "Who?",
     bulgarian: "Кой?",
     image: "images/who.png",
-    audio: "audio/who.mp3",
+    audio: "audio/Кой?.mp3",
     hasChildren: true,
   },
   {
@@ -1326,7 +1326,7 @@ const vocabulary = [
     english: "Why?",
     bulgarian: "Защо?",
     image: "images/why.png",
-    audio: "audio/why.mp3",
+    audio: "audio/Защо?.mp3",
     hasChildren: true,
   },
   {
@@ -1336,7 +1336,7 @@ const vocabulary = [
     english: "Ball",
     bulgarian: "Топка",
     image: "images/ball.png",
-    audio: "audio/ball.mp3",
+    audio: "audio/Топка.mp3",
     hasChildren: false,
   },
   {
@@ -1366,7 +1366,7 @@ const vocabulary = [
     english: "Bluey",
     bulgarian: "Блуи",
     image: "images/bluey.png",
-    audio: "audio/bluey.mp3",
+    audio: "audio/Блуи.mp3",
     hasChildren: false,
   },
   {
@@ -1376,7 +1376,7 @@ const vocabulary = [
     english: "Mickey Mouse",
     bulgarian: "Мики Маус",
     image: "images/MickeyMouse.png",
-    audio: "audio/MickeyMouse.mp3",
+    audio: "audio/Мики Маус.mp3",
     hasChildren: false,
   },
   {
@@ -1386,7 +1386,7 @@ const vocabulary = [
     english: "Movie",
     bulgarian: "Филм",
     image: "images/movie.png",
-    audio: "audio/movie.mp3",
+    audio: "audio/Филм.mp3",
     hasChildren: false,
   },
   {
@@ -1396,7 +1396,7 @@ const vocabulary = [
     english: "Star Wars",
     bulgarian: "Междузвездни войни",
     image: "images/starwars.png",
-    audio: "audio/starwars.mp3",
+    audio: "audio/Междузвездни войни.mp3",
     hasChildren: false,
   },
   {
@@ -1406,7 +1406,7 @@ const vocabulary = [
     english: "Book",
     bulgarian: "Книга",
     image: "images/book.png",
-    audio: "audio/book.mp3",
+    audio: "audio/Книга.mp3",
     hasChildren: false,
   },
   {
@@ -1416,7 +1416,7 @@ const vocabulary = [
     english: "Cold",
     bulgarian: "Студено",
     image: "images/cold.png",
-    audio: "audio/cold.mp3",
+    audio: "audio/Студено.mp3",
     hasChildren: false,
   },
   {
@@ -1426,7 +1426,7 @@ const vocabulary = [
     english: "Hot",
     bulgarian: "Горещо",
     image: "images/hot.png",
-    audio: "audio/hot.mp3",
+    audio: "audio/Горещо.mp3",
     hasChildren: false,
   },
   {
@@ -1436,7 +1436,7 @@ const vocabulary = [
     english: "Rain",
     bulgarian: "Дъжд",
     image: "images/rain.png",
-    audio: "audio/rain.mp3",
+    audio: "audio/Дъжд.mp3",
     hasChildren: false,
   },
   {
@@ -1446,7 +1446,7 @@ const vocabulary = [
     english: "Snow",
     bulgarian: "Сняг",
     image: "images/snow.png",
-    audio: "audio/snow.mp3",
+    audio: "audio/Сняг.mp3",
     hasChildren: false,
   },
   {
@@ -1456,7 +1456,7 @@ const vocabulary = [
     english: "Sun",
     bulgarian: "Слънце",
     image: "images/sun.png",
-    audio: "audio/sun.mp3",
+    audio: "audio/Слънце.mp3",
     hasChildren: false,
   },
   {
@@ -1466,7 +1466,7 @@ const vocabulary = [
     english: "Windy",
     bulgarian: "Ветровито",
     image: "images/windy.png",
-    audio: "audio/windy.mp3",
+    audio: "audio/Ветровито.mp3",
     hasChildren: false,
   },
   {
@@ -1476,7 +1476,7 @@ const vocabulary = [
     english: "Day",
     bulgarian: "Ден",
     image: "images/day.png",
-    audio: "audio/day.mp3",
+    audio: "audio/Ден.mp3",
     hasChildren: false,
   },
   {
@@ -1486,7 +1486,7 @@ const vocabulary = [
     english: "Morning",
     bulgarian: "Сутрин",
     image: "images/morning.png",
-    audio: "audio/morning.mp3",
+    audio: "audio/Сутрин.mp3",
     hasChildren: false,
   },
   {
@@ -1496,7 +1496,7 @@ const vocabulary = [
     english: "Night",
     bulgarian: "Нощ",
     image: "images/night.png",
-    audio: "audio/night.mp3",
+    audio: "audio/Нощ.mp3",
     hasChildren: false,
   },
   {
@@ -1506,7 +1506,7 @@ const vocabulary = [
     english: "Home",
     bulgarian: "Дом",
     image: "images/home.png",
-    audio: "audio/home.mp3",
+    audio: "audio/Дом.mp3",
     hasChildren: false,
   },
   {
@@ -1516,7 +1516,7 @@ const vocabulary = [
     english: "Mira's Room",
     bulgarian: "Стаята на Мира",
     image: "images/mirasroom.png",
-    audio: "audio/mirasroom.mp3",
+    audio: "audio/Стаята на Мира.mp3",
     hasChildren: false,
   },
   {
@@ -1526,7 +1526,7 @@ const vocabulary = [
     english: "Aunt Peyton",
     bulgarian: "Леля Пейтън",
     image: "images/Auntpeyton.png",
-    audio: "audio/Auntpeyton.mp3",
+    audio: "audio/Леля Пейтън.mp3",
     hasChildren: false,
   },
   {
@@ -1536,7 +1536,7 @@ const vocabulary = [
     english: "Baby",
     bulgarian: "Бебе",
     image: "images/baby.png",
-    audio: "audio/baby.mp3",
+    audio: "audio/Бебе.mp3",
     hasChildren: false,
   },
   {
@@ -1546,7 +1546,7 @@ const vocabulary = [
     english: "Cat",
     bulgarian: "Котка",
     image: "images/Cat.png",
-    audio: "audio/Cat.mp3",
+    audio: "audio/Котка.mp3",
     hasChildren: false,
   },
   {
@@ -1556,7 +1556,7 @@ const vocabulary = [
     english: "Dad",
     bulgarian: "Татко",
     image: "images/dad.png",
-    audio: "audio/dad.mp3",
+    audio: "audio/Татко.mp3",
     hasChildren: false,
   },
   {
@@ -1566,7 +1566,7 @@ const vocabulary = [
     english: "Dog",
     bulgarian: "Куче",
     image: "images/dog.png",
-    audio: "audio/dog.mp3",
+    audio: "audio/Куче.mp3",
     hasChildren: false,
   },
   {
@@ -1576,7 +1576,7 @@ const vocabulary = [
     english: "Fish",
     bulgarian: "Риба",
     image: "images/Fish.png",
-    audio: "audio/Fish.mp3",
+    audio: "audio/Риба.mp3",
     hasChildren: false,
   },
   {
@@ -1586,7 +1586,7 @@ const vocabulary = [
     english: "Grandma",
     bulgarian: "Баба",
     image: "images/grandma.png",
-    audio: "audio/grandma.mp3",
+    audio: "audio/Баба.mp3",
     hasChildren: false,
   },
   {
@@ -1596,7 +1596,7 @@ const vocabulary = [
     english: "Grandpa",
     bulgarian: "Дядо",
     image: "images/grandpa.png",
-    audio: "audio/grandpa.mp3",
+    audio: "audio/Дядо.mp3",
     hasChildren: false,
   },
   {
@@ -1606,7 +1606,7 @@ const vocabulary = [
     english: "Me",
     bulgarian: "Аз",
     image: "images/me.png",
-    audio: "audio/me.mp3",
+    audio: "audio/Аз.mp3",
     hasChildren: false,
   },
   {
@@ -1616,7 +1616,7 @@ const vocabulary = [
     english: "Mom",
     bulgarian: "Мама",
     image: "images/Mom.png",
-    audio: "audio/Mom.mp3",
+    audio: "audio/Мама.mp3",
     hasChildren: false,
   },
   {
@@ -1626,7 +1626,7 @@ const vocabulary = [
     english: "Neighbors",
     bulgarian: "Съседи",
     image: "images/neighbors.png",
-    audio: "audio/neighbors.mp3",
+    audio: "audio/Съседи.mp3",
     hasChildren: false,
   },
   {
@@ -1636,7 +1636,7 @@ const vocabulary = [
     english: "Uncle Addie",
     bulgarian: "Чичо Ади",
     image: "images/uncleaddie.png",
-    audio: "audio/uncleaddie.mp3",
+    audio: "audio/Чичо Ади.mp3",
     hasChildren: false,
   },
   {
@@ -1646,7 +1646,7 @@ const vocabulary = [
     english: "Uncle Jasce",
     bulgarian: "Чичо Джейс",
     image: "images/unclejasce.png",
-    audio: "audio/unclejasce.mp3",
+    audio: "audio/Чичо Джейс.mp3",
     hasChildren: false,
   },
   {
@@ -1656,7 +1656,7 @@ const vocabulary = [
     english: "We",
     bulgarian: "Ние",
     image: "images/we.png",
-    audio: "audio/we.mp3",
+    audio: "audio/Ние.mp3",
     hasChildren: false,
   },
   {
@@ -1666,7 +1666,7 @@ const vocabulary = [
     english: "You",
     bulgarian: "Ти",
     image: "images/you.png",
-    audio: "audio/you.mp3",
+    audio: "audio/Ти.mp3",
     hasChildren: false,
   },
 ];
