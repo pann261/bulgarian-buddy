@@ -149,6 +149,16 @@ const vocabulary = [
     audio: "audio/Нуждае.mp3",
     hasChildren: true,
   },
+    {
+    id: "Food",
+    level: 0,
+    parent: null,
+    english: "Food",
+    bulgarian: "Храна",
+    image: "images/food.png",
+    audio: "audio/Храна.mp3",
+    hasChildren: true,
+  },
    {
     id: "Clothes",
     level: 0,
@@ -927,7 +937,7 @@ const vocabulary = [
     bulgarian: "Баня",
     image: "images/bathroom.png",
     audio: "audio/Баня.mp3",
-    hasChildren: true,
+    hasChildren: false,
   },
   {
     id: "Bed",
