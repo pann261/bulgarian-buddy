@@ -1240,8 +1240,8 @@ const vocabulary = [
     hasChildren: false,
   },
   {
-     id: "Play",
-     level: 0,
+    id: "Play",
+    level: 0,
     parent: null,
     english: "Play",
     bulgarian: "Играй",
