@@ -1241,7 +1241,7 @@ const vocabulary = [
   },
   {
      id: "Play",
-     levelL 0,
+     level: 0,
     parent: null,
     english: "Play",
     bulgarian: "Играй",
