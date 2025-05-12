@@ -909,16 +909,6 @@ const vocabulary = [
     audio: "audio/Готово.mp3",
     hasChildren: false,
   },
-  {
-    id: "Play",
-    level: 1,
-    parent: "Phrases",
-    english: "Play",
-    bulgarian: "Играй",
-    image: "images/play.png",
-    audio: "audio/Играй.mp3",
-    hasChildren: false,
-  },
    {
     id: "Want",
     level: 1,
