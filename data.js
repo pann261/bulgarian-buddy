@@ -927,7 +927,7 @@ const vocabulary = [
     bulgarian: "Иска",
     image: "images/want.png",
     audio: "audio/Иска.mp3",
-    hasChildren: true,
+    hasChildren: false,
   },
 {
     id: "Body",
@@ -1217,7 +1217,7 @@ const vocabulary = [
     bulgarian: "Баня",
     image: "images/bathroom.png",
     audio: "audio/Баня.mp3",
-    hasChildren: true,
+    hasChildren: false,
   },
   {
     id: "Living Room",
