@@ -1257,7 +1257,7 @@ const vocabulary = [
     bulgarian: "Как?",
     image: "images/how.png",
     audio: "audio/Как?.mp3",
-    hasChildren: true,
+    hasChildren: false,
   },
   {
     id: "What do you need?",
@@ -1287,7 +1287,7 @@ const vocabulary = [
     bulgarian: "Какво?",
     image: "images/what.png",
     audio: "audio/Какво?.mp3",
-    hasChildren: true,
+    hasChildren: false,
   },
   {
     id: "When?",
@@ -1327,7 +1327,7 @@ const vocabulary = [
     bulgarian: "Защо?",
     image: "images/why.png",
     audio: "audio/Защо?.mp3",
-    hasChildren: true,
+    hasChildren: false,
   },
   {
     id: "Ball",
