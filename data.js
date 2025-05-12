@@ -7,7 +7,7 @@ const vocabulary = [
     bulgarian: "Да",
     image: "images/yes.png",
     audio: "audio/Да.mp3",
-    hasChildren: true,
+    hasChildren: false,
   },
   {
     id: "No",
@@ -17,7 +17,7 @@ const vocabulary = [
     bulgarian: "Не",
     image: "images/no.png",
     audio: "audio/Не.mp3",
-    hasChildren: true,
+    hasChildren: false,
   },
     {
     id: "Family",
