@@ -149,8 +149,8 @@ const vocabulary = [
     audio: "audio/Чувства.mp3",
     hasChildren: true,
   },
-{
-    id: "Happy",
+  {
+   id: "Happy",
     level: 1,
     parent: "Feelings",
     english: "Happy",
@@ -429,7 +429,7 @@ const vocabulary = [
     audio: "audio/Боли.mp3",
     hasChildren: false,
   },
-{
+  {
     id: "Bathroom",
     level: 1,
     parent: "Needs",
