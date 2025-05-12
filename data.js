@@ -736,7 +736,7 @@ const vocabulary = [
     english: "Water",
     bulgarian: "вода",
     image: "images/water.png",
-    audio: "audio/вода.mp4",
+    audio: "audio/вода.mp3",
     hasChildren: false,
   },
   {
