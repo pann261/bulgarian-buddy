@@ -150,7 +150,7 @@ const vocabulary = [
     hasChildren: true,
   },
     {
-    id: ,
+    id: "Food",
     level: 0,
     parent: null,
     english: "Food",
