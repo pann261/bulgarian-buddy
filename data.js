@@ -252,7 +252,7 @@ const vocabulary = [
    {
     id: "Food",
     level: 2,
-    parent: "hungry",
+    parent: "Hungry",
     english: "Food",
     bulgarian: "Храна",
     image: "images/food.png",
@@ -352,7 +352,7 @@ const vocabulary = [
    {
     id: "Drinks",
     level: 2,
-    parent: "thirsty",
+    parent: "Thirsty",
     english: "Drinks",
     bulgarian: "Напитки",
     image: "images/drinks.png",
@@ -637,7 +637,7 @@ const vocabulary = [
     bulgarian: "Плод",
     image: "images/fruit.png",
     audio: "audio/Плод.mp3",
-    hasChildren: false,
+    hasChildren: true,
   },
   {
     id: "Pizza",
