@@ -150,7 +150,7 @@ const vocabulary = [
     hasChildren: true,
   },
     {
-    id: "Food",
+    id: ,
     level: 0,
     parent: null,
     english: "Food",
@@ -732,7 +732,7 @@ const vocabulary = [
   {
     id: "Chocolate Milk",
     level: 1,
-    parent: "Drink",
+    parent: "Drinks",
     english: "Chocolate Milk",
     bulgarian: "Шоколадово мляко",
     image: "images/chocolatemilk.png",
@@ -742,7 +742,7 @@ const vocabulary = [
   {
     id: "Juice",
     level: 1,
-    parent: "Drink",
+    parent: "Drinks",
     english: "Juice",
     bulgarian: "Сок",
     image: "images/juice.png",
@@ -752,7 +752,7 @@ const vocabulary = [
   {
     id: "Milk",
     level: 1,
-    parent: "Drink",
+    parent: "Drinks",
     english: "Milk",
     bulgarian: "Мляко",
     image: "images/milk.png",
@@ -760,13 +760,13 @@ const vocabulary = [
     hasChildren: false,
   },
   {
-    id: "Watermelon",
+    id: "Water",
     level: 1,
-    parent: "Drink",
-    english: "Watermelon",
-    bulgarian: "Диня",
+    parent: "Drinks",
+    english: "Water",
+    bulgarian: "вода",
     image: "images/water.png",
-    audio: "audio/Диня.mp3",
+    audio: "audio/вода.mp3",
     hasChildren: false,
   },
  {
@@ -987,7 +987,7 @@ const vocabulary = [
     bulgarian: "Храна",
     image: "images/food.png",
     audio: "audio/Храна.mp3",
-    hasChildren: false,
+    hasChildren: true,
   },
   {
     id: "Hungry",
