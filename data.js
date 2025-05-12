@@ -1240,8 +1240,8 @@ const vocabulary = [
     hasChildren: false,
   },
   {
-    id: "Play",
-    level: 0,
+     id: "Play",
+     levelL 0,
     parent: null,
     english: "Play",
     bulgarian: "Играй",
@@ -1267,7 +1267,7 @@ const vocabulary = [
     bulgarian: "Цветове",
     image: "images/Colors.png",
     audio: "audio/Цветове.mp3",
-    hasChildren: false,
+    hasChildren: true,
   },
 {
     id: "Red",
