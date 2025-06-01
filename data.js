@@ -469,7 +469,7 @@ const vocabulary = [
     "bulgarian": "Сок",
     "image": "images/juice.png",
     "audio": "audio/Сок.mp3",
-    "hasChildren": true,
+    "hasChildren": false,
     "order": 43
   },
   {
