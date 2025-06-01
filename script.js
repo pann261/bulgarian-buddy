@@ -11,7 +11,9 @@ function renderItems(level, parent) {
   cardGrid.innerHTML = "";
   cardGrid.style.display = "grid";
 
-  const filtered = vocabulary.filter(item => item.level === level && item.parent === parent);
+  const filtered = vocabulary
+  .filter(item => item.level === level && item.parent === parent)
+  .sort((a, b) => (a.order ?? 9999) - (b.order ?? 9999));
   displayCards(filtered);
 
   backButton.style.display = historyStack.length > 0 ? "inline-block" : "none";
