@@ -1165,6 +1165,17 @@ const vocabulary = [
     "hasChildren": false,
     "order": 106
   },
+   {
+    "id": "Playground",
+    "level": 1,
+    "parent": "Places",
+    "english": "Playground",
+    "bulgarian": "детска площадка",
+    "image": "images/playground.png",
+    "audio": "audio/детскаплощадка.mp3",
+    "hasChildren": false,
+    "order": 107
+  },
   {
     "id": "Bathroom",
     "level": 1,
@@ -1174,7 +1185,7 @@ const vocabulary = [
     "image": "images/bathroom.png",
     "audio": "audio/Баня.mp3",
     "hasChildren": false,
-    "order": 107
+    "order": 108
   },
   {
     "id": "Living Room",
@@ -1185,7 +1196,7 @@ const vocabulary = [
     "image": "images/livingroom.png",
     "audio": "audio/Дневна.mp3",
     "hasChildren": false,
-    "order": 108
+    "order": 109
   },
   {
     "id": "Kitchen",
@@ -1196,7 +1207,7 @@ const vocabulary = [
     "image": "images/kitchen.png",
     "audio": "audio/Кухня.mp3",
     "hasChildren": false,
-    "order": 109
+    "order": 110
   },
   {
     "id": "Play",
